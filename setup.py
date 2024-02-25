@@ -32,7 +32,7 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 
 install_requirements = [
-    'mozilla-django-oidc~=3.0.0',
+    'mozilla-django-oidc~=4.0.0',
 ]
 
 test_requirements = [
